@@ -6,21 +6,13 @@ info should be non material public information
 
 document my work so I can improve and for historicity
 
-2022 Inovo - March to July
+2023 - 2024 Codeium - August to ..
 
-🥞: Express, MySQL, React
+🥞: Next 13, Go, GPUs, Platform eng.
 
-Had alot of fun, learned alot
+Building the website, features for users, growth hacking
 
-<img src='tribe-social.png'>
-
-2022 Amazon (AWS Cloudformation) - July to Jan 2023
-
-🥞: React, RQ, Java, Pipelines
-
-Had alot of fun, learned about best practices, there's alot of Amazon things going on
-
-<img src='aws-cfn.png'>
+<img src='codeium.png'>
 
 2023 Skillet.ai (now Kettle.fi) - March to July
 
@@ -30,10 +22,19 @@ Learned alot about tables
 
 <img src='skillet.jpg'>
 
-2023 - 2024 Codeium - August to ..
+2022 Amazon (AWS Cloudformation) - July to Jan 2023
 
-🥞: Next 13, Go, GPUs, Platform eng.
+🥞: React, RQ, Java, Pipelines
 
-Building the website, features for users, growth hacking
+Had alot of fun, learned about best practices, there's alot of Amazon things going on
 
-<img src='codeium.png'>
+<img src='aws-cfn.png'>
+
+2022 Inovo - March to July
+
+🥞: Express, MySQL, React
+
+Had alot of fun, learned alot
+
+<img src='tribe-social.png'>
+
